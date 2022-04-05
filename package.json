@@ -1,9 +1,13 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "bianca chavis",
+	"description": "Backend Dev with FCC",
 	"dependencies": {
 		"express": "^4.14.0"
+
 	},
+	"keywords": [ "backend", "key", "words" ],
+	"license": "MIT",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
